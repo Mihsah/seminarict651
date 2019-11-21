@@ -267,7 +267,8 @@ ol {
 
 .header .logo {
 	float: left;
-	margin-right: 178px;
+	margin-right: 215px;
+	/*margin-top: 10px;*/
 }
 
 .header .logo a {
@@ -520,9 +521,15 @@ ol {
 	margin-bottom: 11px;
 }
 
-.event-counter .event-name h4 {
+.event-counter .event-name h4  {
 	color: #fff;
 	font-size: 24px;
+	font-weight: 400;
+}
+
+.event-counter .event-name h6  {
+	color: #fff;
+	font-size: 18px;
 	font-weight: 400;
 }
 
